@@ -1,0 +1,5 @@
+0-References/*
+*.upm
+.DS_Store
+.idea*
+*.pdf
